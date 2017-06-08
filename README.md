@@ -14,7 +14,7 @@ Build a clone of [Instagram Stories](http://blog.instagram.com/post/148348940287
 ## Technical Specifics:
 1. We require the use of ReactJS. We encourage you to use Redux and React Router.
 2. We encourage the implementation of server side rendering if you have time.
-3. We want to see how you think and work through the problem. So, please commit regularly and often, but do commits which are meaningful.
+3. We want to see how you think and work through the problem. So, please do frequent but meaningful commits.
 4. We expect good code organisation and meaningful names.
 
 ## Questions
